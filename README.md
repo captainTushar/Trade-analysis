@@ -38,7 +38,7 @@ Trade-analysis/
 
 ⚙️ Setup Instructions
 1️⃣ Clone Repository
-git clone https://github.com/YOUR_USERNAME/Trade-analysis.git
+git clone https://github.com/captainTushar/Trade-analysis.git
 cd Trade-analysis
 
 2️⃣ Create Virtual Environment (Recommended)
@@ -72,5 +72,6 @@ Enter trader behavior metrics
 Select market sentiment
 
 Predict whether a trader is likely to be profitable
+
 
 
