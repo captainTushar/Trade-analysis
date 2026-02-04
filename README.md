@@ -25,6 +25,8 @@ Which trader types benefit the most?
 Can we predict trader profitability using sentiment and behavioral metrics?
 
 
+
+
 📂 Project Structure
 
 
@@ -72,6 +74,9 @@ Enter trader behavior metrics
 Select market sentiment
 
 Predict whether a trader is likely to be profitable
+
+Live App Link-  https://captaintushar-trade-analysis-app-1zxpdo.streamlit.app/
+
 
 
 
